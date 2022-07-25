@@ -239,10 +239,10 @@
                                     <p><i class="fas fa-map-marker-alt"></i>Address: 118 Street 3/2 <br>P12 Q10 Ho Chi Minh City, <br> Vietnam </p>
                                 </li>
                                 <li>
-                                    <p><i class="fas fa-phone-square"></i>Phone: <a href="tel:+84-788884871">+84-78888 4871</a></p>
+                                    <p><i class="fas fa-phone-square"></i>Phone: <a href="tel:+84-788884871">0948 459 460</a></p>
                                 </li>
                                 <li>
-                                    <p><i class="fas fa-envelope"></i>Email: <a href="mailto:maverikstudio2020@gmail.com">danghuy7021@gmail.com</a></p>
+                                    <p><i class="fas fa-envelope"></i>Email: <a href="mailto:maverikstudio2020@gmail.com">Typhukut3@gmail.com</a></p>
                                 </li>
                             </ul>
                         </div>
@@ -256,7 +256,7 @@
     <!-- Start copyright  -->
     <div class="footer-copyright">
         <p class="footer-company">All Rights Reserved. &copy; 2021 <a href="#"> ATN TOY</a> Design By :
-            <a href="https://www.facebook.com/Maverik-Studio-108431117661053">Thanh Huy</a></p>
+            <a href="https://www.facebook.com/Maverik-Studio-108431117661053">TY PHU</a></p>
     </div>
     <!-- End copyright  -->
 
