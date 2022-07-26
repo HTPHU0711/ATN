@@ -9,8 +9,6 @@ include_once("connection.php");
                     <div class="row">
                         <div class="col-md-12">
                             <h1 class="m-b-20"><strong>Welcome To <br> ATN Shop</strong></h1>
-                            <p class="m-b-40">Not everything<br> You think about yourself is true. <br> Everything okay in your world.</p>
-                            <p><a class="btn hvr-hover" href="">Shop New</a></p>
                         </div>
                     </div>
                 </div>
@@ -20,9 +18,7 @@ include_once("connection.php");
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Welcome To <br> ATN Studio</strong></h1>
-                            <p class="m-b-40">Not everything<br> You think about yourself is true. <br> Everything okay in your world.</p>
-                            <p><a class="btn hvr-hover" href="">Shop New</a></p>
+                            <h1 class="m-b-20"><strong>Welcome To <br> ATN Shop</strong></h1>
                         </div>
                     </div>
                 </div>
@@ -32,9 +28,7 @@ include_once("connection.php");
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Welcome To <br> ATN Studio</strong></h1>
-                            <p class="m-b-40">Not everything<br> You think about yourself is true. <br> Everything okay in your world.</p>
-                            <p><a class="btn hvr-hover" href="">Shop New</a></p>
+                            <h1 class="m-b-20"><strong>Welcome To <br> ATN Shop</strong></h1>
                         </div>
                     </div>
                 </div>
