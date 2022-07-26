@@ -58,37 +58,7 @@ include_once("connection.php");
                         </div>
                     </div>
                 </div>
-            </div>
-          
-            <div class="row special-list">
-            <?php 
-            $sq = pg_query($Connect,"select * from product");
-            while($row=pg_fetch_array($sq)){
-            ?>
-                <div class="col-lg-3 col-md-6 special-grid top-featured">
-                    <div class="products-single fix">
-                        <div class="box-img-hover">
-                            <img src="images/<?php echo $row['pro_image'];?>" class="img-fluid" alt="Image">
-                            <div class="mask-icon">
-                                <ul>
-                                    <li><a href="shop-detail.php" data-toggle="tooltip" data-placement="right" title="View"><i class="fas fa-eye"></i></a></li>
-                                    <li><a href="#" data-toggle="tooltip" data-placement="right" title="Compare"><i class="fas fa-sync-alt"></i></a></li>
-                                    <li><a href="#" data-toggle="tooltip" data-placement="right" title="Add to Wishlist"><i class="far fa-heart"></i></a></li>
-                                </ul>
-                                <a class="cart" href="?page=cart">Add to Cart</a>
-                            </div>
-                        </div>
-                        <div class="why-text">
-                            <h4><?php echo $row['pro_name'];?></h4>
-                            <h5> <?php echo $row['pro_price'];?>$</h5>
-                        </div>
-                    </div>
-                </div>
-                <?php
-            }
-            ?> 
-            </div>
-            
+            </div>      
         </div>
     </div>
     <!-- End Products  -->
