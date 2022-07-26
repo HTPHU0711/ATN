@@ -78,8 +78,8 @@
 								</a>
                                     <div class="collapse show" id="sub-men1" data-parent="#list-group-men">
                                         <div class="list-group">
-                                            <a href="#" class="list-group-item list-group-item-action active">Model Dragon ball <small class="text-muted"></small></a>
-                                            <a href="#" class="list-group-item list-group-item-action active">Control Model Car <small class="text-muted"></small></a>
+                                            <a href="#" class="list-group-item list-group-item-action active">Gun amine <small class="text-muted"></small></a>
+                                            <a href="#" class="list-group-item list-group-item-action active">ShotGun <small class="text-muted"></small></a>
                                         </div>
                                     </div>
                                 </div>
