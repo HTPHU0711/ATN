@@ -143,9 +143,6 @@
         elseif($page=="add_product"){
             include_once("Add_Product.php");
         }
-        elseif($page=="add_fb"){
-            include_once("Add_fb.php");
-        }
         elseif($page=="add_shop"){
             include_once("Add_shop.php");
         }
@@ -157,9 +154,6 @@
         }
         elseif($page=="update_shop"){
             include_once("Update_shop.php");
-        }
-        elseif($page=="update_fb"){
-            include_once("update_fb.php");
         }
         elseif($page=="update_order"){
             include_once("Update_Order.php");
@@ -185,9 +179,6 @@
         elseif ($page=="manager_shop") {
             include_once("manager_shop.php");
         }
-        elseif ($page=="manager_fb") {
-            include_once("manager_feedback.php");
-        }
      }
      else{
          include("Content.php");
@@ -212,8 +203,8 @@
                 <div class="row">
                     <div class="col-lg-4 col-md-12 col-sm-12">
                         <div class="footer-widget">
-                            <h4>About ATN Studio</h4>
-                            <p>ATN Studio is a fashion label in Saigon Since 2017 </p>
+                            <h4>About ATN Shop</h4>
+                            <p>ATN Shop brand selling children's toys since 2022.</p>
                             <ul>
                                 <li><a href="https://www.https://facebook.com/Typhu.urs"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
                                 <li><a href="https://www.instagram.com/typhukut3"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
@@ -233,13 +224,13 @@
                             <h4>Contact Us</h4>
                             <ul>
                                 <li>
-                                    <p><i class="fas fa-map-marker-alt"></i>Address: 118 Street 3/2 <br>P12 Q10 Ho Chi Minh City, <br> Vietnam </p>
+                                    <p><i class="fas fa-map-marker-alt"></i>Address: 118 Street 3/2 <br>Ninh Kieu District Can Tho City, <br> Vietnam </p>
                                 </li>
                                 <li>
-                                    <p><i class="fas fa-phone-square"></i>Phone: <a href="tel:+84-788884871">0948 459 460</a></p>
+                                    <p><i class="fas fa-phone-square"></i>Phone: <a href="tel:0948459460">0948 459 460</a></p>
                                 </li>
                                 <li>
-                                    <p><i class="fas fa-envelope"></i>Email: <a href="mailto:maverikstudio2020@gmail.com">Typhukut3@gmail.com</a></p>
+                                    <p><i class="fas fa-envelope"></i>Email: <a href="mailto:typhukut3@gmail.com">Typhukut3@gmail.com</a></p>
                                 </li>
                             </ul>
                         </div>
@@ -252,8 +243,8 @@
 
     <!-- Start copyright  -->
     <div class="footer-copyright">
-        <p class="footer-company">All Rights Reserved. &copy; 2022 <a href="#"> ATN TOY</a> Design By :
-            <a href="https://www.facebook.com/Maverik-Studio-108431117661053">TY PHU</a></p>
+        <p class="footer-company">All Rights Reserved. &copy; 2022 <a href="#"> ATN Shop</a> Design By :
+            <a href="https://www.facebook.com/Typhu.urs">TY PHU</a></p>
     </div>
     <!-- End copyright  -->
 
