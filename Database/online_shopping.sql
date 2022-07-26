@@ -98,7 +98,7 @@ CREATE TABLE `orders` (
 --
 
 INSERT INTO `orders` (`OrderID`, `OrderDate`, `DeliveryDate`, `Delivery_loca`, `Payment`, `username`) VALUES
-('001', '2021-05-08 10:45:28', '2021-05-08 10:45:28', 'DONG NAI', 100000, 'huy123'),
+('001', '2022-07-20 10:45:28', '2022-07-20 10:45:28', 'DONG NAI', 100000, 'phu123'),
 ('002', '2021-05-08 13:32:30', '2021-05-08 13:32:30', 'HCM', 870000, 'test1'),
 ('003', '2021-05-08 13:32:30', '2021-05-08 13:32:30', 'CAN THO', 900000, 'test2');
 
