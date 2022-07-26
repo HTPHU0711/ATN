@@ -46,8 +46,7 @@ include_once("connection.php");
             <div class="row">
                 <div class="col-lg-12">
                     <div class="title-all text-center">
-                        <h1>Featured Products</h1>
-                        <p>The most outstanding products of the ATN Studio.</p>
+                        <h1>Products</h1>
                     </div>
                 </div>
             </div>
@@ -55,9 +54,7 @@ include_once("connection.php");
                 <div class="col-lg-12">
                     <div class="special-menu text-center">
                         <div class="button-group filter-button-group">
-                            <button class="active" data-filter="*">All</button>
-                            <button data-filter=".top-featured">New Arrivals</button>
-                            <button data-filter=".best-seller">Best seller</button>
+                            <button class="active" data-filter="*">All Products</button>
                         </div>
                     </div>
                 </div>
