@@ -58,7 +58,18 @@ include_once("connection.php");
                         </div>
                     </div>
                 </div>
-            </div>      
+            </div>
+          
+            <div class="row special-list">
+            <?php 
+            $sq = pg_query($Connect,"select * from product");
+            while($row=pg_fetch_array($sq)){
+            ?>
+                <?php
+            }
+            ?> 
+            </div>
+            
         </div>
     </div>
     <!-- End Products  -->
