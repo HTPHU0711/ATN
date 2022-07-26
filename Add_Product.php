@@ -108,6 +108,12 @@
 							<div class="col-sm-10">
 							      <?php bind_Category_List();  ?>
 							</div>
+                </div>  
+            <div class="form-group">
+                <label for="" class="col-sm-2 control-label">Product Shop(*):  </label>
+                <div class="col-sm-10">
+                    <?php bind_Shop_List();  ?>
+                </div>
             </div>
                           
                 <div class="form-group">  
