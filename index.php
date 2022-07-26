@@ -93,7 +93,6 @@
                               <li><a href="?page=product_management">Product</a></li>
                               <li><a href="?page=order">Order</a></li>
                               <li><a href="?page=manager_shop">Shop</a></li>
-                              <li><a href="?page=manager_fb">Feedback</a></li>
                         </ul>
                         </li>
                         <?php }
@@ -255,7 +254,7 @@
 
     <!-- Start copyright  -->
     <div class="footer-copyright">
-        <p class="footer-company">All Rights Reserved. &copy; 2021 <a href="#"> ATN TOY</a> Design By :
+        <p class="footer-company">All Rights Reserved. &copy; 2022 <a href="#"> ATN TOY</a> Design By :
             <a href="https://www.facebook.com/Maverik-Studio-108431117661053">TY PHU</a></p>
     </div>
     <!-- End copyright  -->
