@@ -4,11 +4,11 @@ include_once("connection.php");
    <div id="slides-shop" class="cover-slides">
         <ul class="slides-container">
             <li class="text-left">
-                <img src="images/b1.jpg" alt="">
+                <img src="images/b6.jpg" alt="">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Welcome To <br> ATN Studio</strong></h1>
+                            <h1 class="m-b-20"><strong>Welcome To <br> ATN Shop</strong></h1>
                             <p class="m-b-40">Not everything<br> You think about yourself is true. <br> Everything okay in your world.</p>
                             <p><a class="btn hvr-hover" href="">Shop New</a></p>
                         </div>
@@ -16,7 +16,7 @@ include_once("connection.php");
                 </div>
             </li>
             <li class="text-center">
-                <img src="images/b2.png" alt="">
+                <img src="images/b5.png" alt="">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
@@ -35,18 +35,6 @@ include_once("connection.php");
                             <h1 class="m-b-20"><strong>Welcome To <br> ATN Studio</strong></h1>
                             <p class="m-b-40">Not everything<br> You think about yourself is true. <br> Everything okay in your world.</p>
                             <p><a class="btn hvr-hover" href="">Shop New</a></p>
-                        </div>
-                    </div>
-                </div>
-            </li>
-            <li class="text-left">
-                <img src="images/b5.jpg" alt="">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-                             <h1 class="m-b-20"><strong>Welcome To <br> ATN Studio</strong></h1>
-                            <p class="m-b-40">Not everything<br> You think about yourself is true. <br> Everything okay in your world.</p>
-                            <p><a class="btn hvr-hover" href="shop.php">Shop New</a></p>
                         </div>
                     </div>
                 </div>
