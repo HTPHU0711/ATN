@@ -100,6 +100,28 @@
                         ?>
                         <li class="dropdown megamenu-fw">
                         <a href="?page=shop" class="nav-link" >PRODUCT</a>
+                        <ul class="dropdown-menu megamenu-content" role="menu">
+                                <li>
+                                    <div class="row">
+                                        <div class="col-menu col-md-3">
+                                            <h6 class="title">Top</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="?page=shop">Bearbrick</a></li>
+                                                    
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-md-3">
+                                            <h6 class="title">Bottom</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="?page=shop">Bear</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        </div>
+                                    </div>
                 </div>
                 <!-- /.navbar-collapse -->
 
