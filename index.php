@@ -215,9 +215,8 @@
                             <h4>About ATN Studio</h4>
                             <p>ATN Studio is a fashion label in Saigon Since 2017 </p>
                             <ul>
-                                <li><a href="https://www.facebook.com/Maverik-Studio-108431117661053"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
-                                <li><a href="https://www.instagram.com/maverik.studio/"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
-                                <li><a href="#"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
+                                <li><a href="https://www.https://facebook.com/Typhu.urs"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
+                                <li><a href="https://www.instagram.com/typhukut3"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -225,8 +224,7 @@
                         <div class="footer-link">
                             <h4>Information</h4>
                             <ul>
-                                <li><a href="https://www.facebook.com/Maverik-Studio-108431117661053">About Us</a></li>
-                                <li><a href="https://www.facebook.com/DTH.office0107/">Customer Service</a></li>
+                                <li><a href="https://www.https://facebook.com/Typhu.urs">Customer Service</a></li>
                             </ul>
                         </div>
                     </div>
