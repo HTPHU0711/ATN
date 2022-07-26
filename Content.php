@@ -65,6 +65,17 @@ include_once("connection.php");
             $sq = pg_query($Connect,"select * from product");
             while($row=pg_fetch_array($sq)){
             ?>
+                <div class="col-lg-3 col-md-6 special-grid top-featured">
+                    <div class="products-single fix">
+                        <div class="box-img-hover">
+                            <img src="images/<?php echo $row['pro_image'];?>" class="img-fluid" alt="Image">
+                        </div>
+                        <div class="why-text">
+                            <h4><?php echo $row['pro_name'];?></h4>
+                            <h5> <?php echo $row['pro_price'];?>$</h5>
+                        </div>
+                    </div>
+                </div>
                 <?php
             }
             ?> 
